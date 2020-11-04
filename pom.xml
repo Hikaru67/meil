@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>vn.meil</groupId>
+    <artifactId>meil</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+
+
+    <modules>
+        <module>meil-web-logic</module>
+        <module>meil-web</module>
+        <module>meil-core-dto</module>
+        <module>meil-core-data</module>
+        <module>meil-core-dao</module>
+        <module>meil-core-dao-impl</module>
+        <module>meil-core-service</module>
+        <module>meil-core-service-impl</module>
+        <module>meil-core-utils</module>
+    </modules>
+
+    <properties>
+    </properties>
+
+    <dependencies>
+
+    </dependencies>
+
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="meil-web" />
+        <module name="meil-core-dao-impl" />
+        <module name="meil-core-dto" />
+        <module name="meil-core-utils" />
+        <module name="meil-core-service" />
+        <module name="meil-web-logic" />
+        <module name="meil-core-data" />
+        <module name="meil-core-service-impl" />
+        <module name="meil-core-dao" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
